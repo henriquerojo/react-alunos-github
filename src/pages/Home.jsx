@@ -17,6 +17,7 @@ const HomeComponente = () => {
         <Link to={"/profiles"}>Acessar página de Perfis</Link>
       </button>
     </main>
+    
   );
 };
 
